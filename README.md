@@ -84,10 +84,15 @@ Run the Jupyter notebooks in the /notebooks directory to reproduce the analysis 
 
 # Dependencies
 Python 3.x
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-Learn
 
 
