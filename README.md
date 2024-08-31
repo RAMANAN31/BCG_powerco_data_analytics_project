@@ -78,7 +78,7 @@ The project successfully demonstrated the use of advanced data analytics and mac
 
 Clone the repository to your local machine.
 
-Ensure you have Python and the required libraries installed (see requirements.txt).
+Ensure you have Python and the required libraries installed for analysis.
 
 Run the Jupyter notebooks in the /notebooks directory to reproduce the analysis and model building steps.
 
