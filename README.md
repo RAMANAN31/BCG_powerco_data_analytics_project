@@ -7,7 +7,8 @@
 
 
 
-This project focuses on analyzing customer churn for PowerCo, a utility company, to understand the reasons behind customer turnover and predict future churn. This analysis is crucial for identifying key customer segments at risk and implementing strategies to improve retention. The project showcases advanced data analytics skills, effective data visualization, and predictive modeling to provide actionable insights for decision-makers.
+This project focuses on analyzing customer churn for PowerCo, a utility company, to understand the reasons behind customer turnover and predict future churn.
+This analysis is crucial for identifying key customer segments at risk and implementing strategies to improve retention. The project showcases advanced data analytics skills, effective data visualization, and predictive modeling to provide actionable insights for decision-makers.
 
 
 
@@ -18,21 +19,31 @@ This project focuses on analyzing customer churn for PowerCo, a utility company,
 
 
 Data Exploration: Analyze the customer data to identify key characteristics and patterns associated with churn.
+
 Data Analysis: Utilize Python libraries like Pandas and NumPy to conduct in-depth data analysis.
+
 Data Visualization: Create visualizations to interpret trends and insights from the data.
+
 Predictive Modeling: Engineer and optimize a random forest model to predict customer churn with high accuracy.
+
 Executive Summary: Provide a concise summary with actionable insights for the Associate Director to facilitate informed decision-making.
 Tools and Technologies
+
 Python: The primary programming language used for data analysis and modeling.
+
 Pandas: Used for data manipulation and analysis.
+
 NumPy: Employed for numerical computations.
+
 Matplotlib and Seaborn: Utilized for data visualization to uncover insights and trends.
+
 Scikit-Learn: Used for building and optimizing the random forest model.
-Project Workflow
+
+# Project Workflow
 
 
 
-# Data Collection and Cleaning:
+ Data Collection and Cleaning:
 
 Imported and cleaned customer data to ensure it was ready for analysis.
 Addressed missing values, removed duplicates, and performed necessary preprocessing.
