@@ -11,7 +11,9 @@ This project focuses on analyzing customer churn for PowerCo, a utility company,
 
 
 
-Objectives
+
+
+# Objectives
 
 
 
@@ -30,7 +32,7 @@ Project Workflow
 
 
 
-Data Collection and Cleaning:
+# Data Collection and Cleaning:
 
 Imported and cleaned customer data to ensure it was ready for analysis.
 Addressed missing values, removed duplicates, and performed necessary preprocessing.
@@ -59,19 +61,19 @@ Compiled an executive summary highlighting the key insights and recommendations 
 
 
 
-Results
+# Results
 The random forest model achieved an accuracy rate of 91% in predicting customer churn.
 Identified critical factors influencing churn, such as customer tenure, usage patterns, and service satisfaction.
 Provided actionable insights for PowerCo to target high-risk customer segments and implement retention strategies.
 
 
 
-Conclusion
+# Conclusion
 The project successfully demonstrated the use of advanced data analytics and machine learning techniques to analyze customer churn. By understanding the key drivers of churn and leveraging predictive modeling, PowerCo can make data-driven decisions to reduce customer turnover and enhance customer satisfaction.
 
 
 
-How to Run
+# How to Run
 
 
 Clone the repository to your local machine.
@@ -87,9 +89,9 @@ Scikit-Learn
 
 
 
-Install the dependencies using the following command:
+# Install the dependencies using the following command:
 pip install -r requirements.txt
 
 
-Contact
+# Contact
 For any questions or further information, please contact me at ramanan312004@gmail.com .
